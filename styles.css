@@ -1,17 +1,26 @@
 body{
   font-family: Arial, sans-serif;
 }
+
+section{
+  padding-top: 500px;
+  padding-bottom: 500px;
+}
+
 h2{
   color: #f8f9fa;
 }
+
 p{
   font-size: 1.1em;
   color: navy;
 }
+
 ul{
   list-style-type: none;
   padding: 0;
 }
+
 ul li{
   background: #f8f9fa;
   padding: 10px;
